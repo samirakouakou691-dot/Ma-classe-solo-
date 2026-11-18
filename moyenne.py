@@ -1,7 +1,6 @@
 """ Fonction de Calcul de la moyenne pondérée d'un élève."""
 import csv
 
-
 def moyenne_ponderee(notes):
     """Retourne la moyenne sur 20, arrondie à 2 décimales.
 
